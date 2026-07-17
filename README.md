@@ -8,7 +8,7 @@ week, and time of year using six different visualization types.
 [View on Tableau Public](https://public.tableau.com/app/profile/kaung.khant.han/viz/DataVisualizationwithFlightDataset/HeatMapAirlineDelay)
 
 ## 📊 Preview
-![Heat Map Preview](heatMap.png)
+![Heat Map Preview](heatmap.png)
 ![Highlight Table Preview](hightlightMap.png)
 ![Line Chart Preview](lineChart.png)
 ![Interface Setting Up Preview](customize.png)
